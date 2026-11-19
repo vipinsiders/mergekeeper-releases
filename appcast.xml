@@ -3,17 +3,16 @@
     <channel>
         <title>Mergekeeper</title>
         <item>
-            <title>0.1.3</title>
-            <pubDate>Thu, 19 Nov 2026 20:22:14 +0000</pubDate>
-            <sparkle:version>103</sparkle:version>
-            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <title>0.1.4</title>
+            <pubDate>Thu, 19 Nov 2026 20:26:00 +0000</pubDate>
+            <sparkle:version>104</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mergekeeper 0.1.3</h2><ul>
-<li>feat(auth): require Google sign-in with a @repeatmd.com account (#2)</li>
-<li>docs: main is protected; agents ship through pull requests (#1)</li>
+            <description><![CDATA[<h2>Mergekeeper 0.1.4</h2><ul>
+<li>Rebrand to Formula: new look, Shipping screen and flask app icon (#4)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Mergekeeper-0.1.3.dmg" length="9822487" type="application/octet-stream" sparkle:edSignature="fKZQuTaU5ysbQb1vu1NBcfY9THG9xn3FdMJGu1vqStmmboNS4nwYaK0Z2LX9LxtKZVsmvHdqfFXCSA1MPw4cAA=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Mergekeeper-0.1.4.dmg" length="8290694" type="application/octet-stream" sparkle:edSignature="h2QoatYl0AVkGOZj627vF6Qlqr04QQlixE7uNbDbyvY6YJyVrGEU0uqC7j7vwtmEXH1pUTtEJLrnJjHFNk8NAw=="/>
         </item>
     </channel>
 </rss>
