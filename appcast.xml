@@ -3,28 +3,17 @@
     <channel>
         <title>Mergekeeper</title>
         <item>
-            <title>0.1.2</title>
-            <pubDate>Thu, 19 Nov 2026 20:06:29 +0000</pubDate>
-            <sparkle:version>102</sparkle:version>
-            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <title>0.1.3</title>
+            <pubDate>Thu, 19 Nov 2026 20:22:14 +0000</pubDate>
+            <sparkle:version>103</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mergekeeper 0.1.2</h2><ul>
-<li>fix(release): build universal binary from two native slices joined with lipo</li>
-<li>feat(release): release automatically on every code change to main</li>
-<li>refactor(core): drop legacy keychain and secrets-file migration</li>
-<li>Merge remote-tracking branch 'origin/main' into an/mergekeeper-keychain-perms-622ce7</li>
-<li>feat(core): keep secrets out of the login keychain so macOS never prompts</li>
-<li>chore: repos moved to the vipinsiders org; update owners and feed URLs</li>
-<li>ci: run tests on pull requests; add PR template</li>
-<li>feat(release): GitHub tag-triggered release pipeline, setup-ci.sh, agent docs</li>
-<li>Merge branch 'an/mergekeeper-notification-permissions-e5ad60'</li>
-<li>docs: add AGENTS.md with the agent deploy instructions</li>
-<li>feat(notifications): ask for notification permission at launch</li>
-<li>feat(release): Scripts/ship.sh one-command release; CI release is manual until secrets exist</li>
-<li>fix(release): find gh outside the shell PATH, fall back to git clone</li>
+            <description><![CDATA[<h2>Mergekeeper 0.1.3</h2><ul>
+<li>feat(auth): require Google sign-in with a @repeatmd.com account (#2)</li>
+<li>docs: main is protected; agents ship through pull requests (#1)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Mergekeeper-0.1.2.dmg" length="9666418" type="application/octet-stream" sparkle:edSignature="BMpfrxY/8wot5eXVzHh41lsubl3XeG3cCnemejH4lGS9fyg9Aos4xq2cwz8gT3Z1Qqul2+sdLQj469R9JzF/Bg=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Mergekeeper-0.1.3.dmg" length="9822487" type="application/octet-stream" sparkle:edSignature="fKZQuTaU5ysbQb1vu1NBcfY9THG9xn3FdMJGu1vqStmmboNS4nwYaK0Z2LX9LxtKZVsmvHdqfFXCSA1MPw4cAA=="/>
         </item>
     </channel>
 </rss>
