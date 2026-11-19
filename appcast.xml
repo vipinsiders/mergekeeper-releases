@@ -3,17 +3,16 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.19</title>
-            <pubDate>Thu, 19 Nov 2026 23:00:18 +0000</pubDate>
-            <sparkle:version>119</sparkle:version>
-            <sparkle:shortVersionString>0.1.19</sparkle:shortVersionString>
+            <title>0.1.20</title>
+            <pubDate>Thu, 19 Nov 2026 23:32:57 +0000</pubDate>
+            <sparkle:version>120</sparkle:version>
+            <sparkle:shortVersionString>0.1.20</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.19</h2><ul>
-<li>Ideas: share work across Claude Code and Codex, and start on the least powerful model that fits (#29)</li>
-<li>Chat: talk to an agent, picking the agent, account, model and connectors (#28)</li>
+            <description><![CDATA[<h2>Formula 0.1.20</h2><ul>
+<li>Ideas: every idea works from the real code in its own copy, and Build now runs up to a draft pull request (#30)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.19.dmg" length="44180029" type="application/octet-stream" sparkle:edSignature="X78qTWajMuNGzLZZcjNoABrgqxjrYVn2ADKCEdP7RDyLkUqIqqWqgTZDFUbMhJX7V5A/djokZMGmNXbJ8ZIzBg=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.20.dmg" length="44473660" type="application/octet-stream" sparkle:edSignature="UfjP1s6B0ZHnhZI4zbiW2t+FTG+iXtYQUPVDvxwSD/MJdqSZg7wTbgDkI7GchKfDdrmuLi4KXgKXn3/AWEU3Dw=="/>
         </item>
     </channel>
 </rss>
