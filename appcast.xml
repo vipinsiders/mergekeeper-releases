@@ -3,16 +3,16 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.15</title>
-            <pubDate>Thu, 19 Nov 2026 22:28:38 +0000</pubDate>
-            <sparkle:version>115</sparkle:version>
-            <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
+            <title>0.1.16</title>
+            <pubDate>Thu, 19 Nov 2026 22:37:43 +0000</pubDate>
+            <sparkle:version>116</sparkle:version>
+            <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.15</h2><ul>
-<li>Ideas: see what the agent is doing while it reads, and why an idea has its size (#23)</li>
+            <description><![CDATA[<h2>Formula 0.1.16</h2><ul>
+<li>Ideas: draw clickable prototypes, send briefs to Slack, and write shorter, more decided briefs (#24)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.15.dmg" length="43053893" type="application/octet-stream" sparkle:edSignature="irnvX2Ul6H77oah578oivYCzsEy/2bqZ4DCcnD85uspSTVHS9iV3v0iJCtu0Pvny+hXtnQo1uazQPs3DdzOWDg=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.16.dmg" length="43230318" type="application/octet-stream" sparkle:edSignature="lMtBwtIN22AN2r7viiZyVhdOJJFzMgj5lW2AurhBqlTJ+H0DcIte7Z6W/eAuwLIEOo+WIuFE58H+tY3IwUPEBA=="/>
         </item>
     </channel>
 </rss>
