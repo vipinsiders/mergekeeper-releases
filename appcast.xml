@@ -3,17 +3,17 @@
     <channel>
         <title>Mergekeeper</title>
         <item>
-            <title>0.1.5</title>
-            <pubDate>Thu, 19 Nov 2026 20:44:53 +0000</pubDate>
-            <sparkle:version>105</sparkle:version>
-            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <title>0.1.6</title>
+            <pubDate>Thu, 19 Nov 2026 21:30:06 +0000</pubDate>
+            <sparkle:version>106</sparkle:version>
+            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mergekeeper 0.1.5</h2><ul>
-<li>Check for updates on launch and every 4 hours (#9)</li>
-<li>ci: pin actions, cache SwiftPM, shellcheck, post-release verify, dependabot (#3)</li>
+            <description><![CDATA[<h2>Mergekeeper 0.1.6</h2><ul>
+<li>New five-step setup, Cursor cloud agent, agent tools and a simpler Settings (#12)</li>
+<li>Plain-language copy and one-click fixes for stuck PRs (#5)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Mergekeeper-0.1.5.dmg" length="8290737" type="application/octet-stream" sparkle:edSignature="YmFEzzyuUnkMD06TCdpjWambwSUuPIZJm1OaqgNO4avrfBPVJgkuLEEK6BK75EEl4hCPVZ0TqDqWCAG7yWv3BQ=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Mergekeeper-0.1.6.dmg" length="41273597" type="application/octet-stream" sparkle:edSignature="1eBlZu5fbyZlIjyCvu+H3hQPzjiKXhll2+GdJVztWSxPt23Z1sk3Y83E9xoohQaZhL9tWmqeOlTctEhtF2WLAQ=="/>
         </item>
     </channel>
 </rss>
