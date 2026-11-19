@@ -3,17 +3,17 @@
     <channel>
         <title>Mergekeeper</title>
         <item>
-            <title>0.1.6</title>
-            <pubDate>Thu, 19 Nov 2026 21:30:06 +0000</pubDate>
-            <sparkle:version>106</sparkle:version>
-            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+            <title>0.1.7</title>
+            <pubDate>Thu, 19 Nov 2026 21:35:50 +0000</pubDate>
+            <sparkle:version>107</sparkle:version>
+            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mergekeeper 0.1.6</h2><ul>
-<li>New five-step setup, Cursor cloud agent, agent tools and a simpler Settings (#12)</li>
-<li>Plain-language copy and one-click fixes for stuck PRs (#5)</li>
+            <description><![CDATA[<h2>Mergekeeper 0.1.7</h2><ul>
+<li>Always show last updated and a Refresh button in the status bar (#11)</li>
+<li>Fix Codex sign-in failing with EACCES on installs missing the execute bit (#10)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Mergekeeper-0.1.6.dmg" length="41273597" type="application/octet-stream" sparkle:edSignature="1eBlZu5fbyZlIjyCvu+H3hQPzjiKXhll2+GdJVztWSxPt23Z1sk3Y83E9xoohQaZhL9tWmqeOlTctEhtF2WLAQ=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Mergekeeper-0.1.7.dmg" length="41295695" type="application/octet-stream" sparkle:edSignature="8wCT+8ShH5Ev5krea/Go7MyR+PVa4cv1s2iOOCWGGkrsbpEdLRwDdY+6+4qGqervb2uvJKGWJ5oe2bgmQlLRAw=="/>
         </item>
     </channel>
 </rss>
