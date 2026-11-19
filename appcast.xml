@@ -3,19 +3,16 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.10</title>
-            <pubDate>Thu, 19 Nov 2026 21:56:17 +0000</pubDate>
-            <sparkle:version>110</sparkle:version>
-            <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+            <title>0.1.11</title>
+            <pubDate>Thu, 19 Nov 2026 22:02:19 +0000</pubDate>
+            <sparkle:version>111</sparkle:version>
+            <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.10</h2><ul>
-<li>Fix Codex and tool sign-in in setup, and make Your Mac a real checklist (#17)</li>
-<li>Watch your ready PRs automatically, and keep removed ones off the list (#18)</li>
-<li>Say plainly when merging is paused, and drop the repeated toolbar title (#16)</li>
-<li>Ideas (preview): describe a change and Formula turns it into a brief with you (#15)</li>
+            <description><![CDATA[<h2>Formula 0.1.11</h2><ul>
+<li>Fix the cramped layout in wide windows, add a first-load state and a larger progress track (#19)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.10.dmg" length="42620182" type="application/octet-stream" sparkle:edSignature="1IllcEYeocy2wXSo8WyN1+V00sSbEavx5HuZGZaxPoxc2ydC+1kzQ+izsB0D0g3psLBoFC+8qmh3jme3C8khDw=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.11.dmg" length="42702151" type="application/octet-stream" sparkle:edSignature="yMIWVtVAO0bEcPTUBxPwBS7we0f8BgqPeFjbU8YPcdADJIsZ2t6jqbhTFce46OdzCFDT/hHlXbG36w6+bLeHBA=="/>
         </item>
     </channel>
 </rss>
