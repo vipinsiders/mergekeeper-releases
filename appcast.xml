@@ -3,16 +3,17 @@
     <channel>
         <title>Mergekeeper</title>
         <item>
-            <title>0.1.4</title>
-            <pubDate>Thu, 19 Nov 2026 20:26:00 +0000</pubDate>
-            <sparkle:version>104</sparkle:version>
-            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <title>0.1.5</title>
+            <pubDate>Thu, 19 Nov 2026 20:44:53 +0000</pubDate>
+            <sparkle:version>105</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mergekeeper 0.1.4</h2><ul>
-<li>Rebrand to Formula: new look, Shipping screen and flask app icon (#4)</li>
+            <description><![CDATA[<h2>Mergekeeper 0.1.5</h2><ul>
+<li>Check for updates on launch and every 4 hours (#9)</li>
+<li>ci: pin actions, cache SwiftPM, shellcheck, post-release verify, dependabot (#3)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Mergekeeper-0.1.4.dmg" length="8290694" type="application/octet-stream" sparkle:edSignature="h2QoatYl0AVkGOZj627vF6Qlqr04QQlixE7uNbDbyvY6YJyVrGEU0uqC7j7vwtmEXH1pUTtEJLrnJjHFNk8NAw=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Mergekeeper-0.1.5.dmg" length="8290737" type="application/octet-stream" sparkle:edSignature="YmFEzzyuUnkMD06TCdpjWambwSUuPIZJm1OaqgNO4avrfBPVJgkuLEEK6BK75EEl4hCPVZ0TqDqWCAG7yWv3BQ=="/>
         </item>
     </channel>
 </rss>
