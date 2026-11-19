@@ -3,48 +3,28 @@
     <channel>
         <title>Mergekeeper</title>
         <item>
-            <title>0.1.1</title>
-            <pubDate>Thu, 19 Nov 2026 14:33:51 -0500</pubDate>
-            <sparkle:version>101</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <title>0.1.2</title>
+            <pubDate>Thu, 19 Nov 2026 20:06:29 +0000</pubDate>
+            <sparkle:version>102</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mergekeeper 0.1.1</h2><ul>
-<li>fix(release): avoid pipefail false negative in hardened-runtime check</li>
-<li>docs(release): host updates on the public releases repo; add publish-updates script</li>
-<li>feat(release): Developer ID release pipeline, Sparkle updates, blank team defaults</li>
-<li>feat(ui): single status bar across the main window with collapsing chips; main CI; snapshots</li>
-<li>feat(notifications): permission flow, categories, quiet hours, ledger dedupe, actions, launch at login, menu-bar residency</li>
-<li>docs: agents screen, transcripts, counts</li>
-<li>fix(core): read each Keychain secret once and cache it; stable local signing identity script</li>
-<li>fix(ui): Agents list filters fit narrow panes; plain stack for normal-length transcripts</li>
-<li>fix(ui): bound the narrow-window PR detail sheet and keep its content at a readable width</li>
-<li>fix(ui): one GroupCounts source for every PR count; loading rows no longer counted as Needs you</li>
-<li>feat(ui): Agents screen, conversation view, inspector transcript, retention settings, snapshots</li>
-<li>feat(core): agent transcript model, parsers, persistence, follow-up planning</li>
-<li>feat: personal access token is the default GitHub link; Data &amp; Security pane</li>
-<li>feat(core): data and security hardening, Codex keyring login, tests</li>
-<li>fix(core): derive approval state from GitHub reviewDecision, handle code owners</li>
-<li>fix(ui): dock the PR inspector inside the window layout, wrap its text; specific agent failure reasons</li>
-<li>feat(core): URLSession GitHub runner behind CommandRunning; Core builds for iOS</li>
-<li>test: startAgent eligibility requires an enabled, non-cooling account</li>
-<li>feat: agent accounts UI, usage strip, docs, OAuth client id placeholder</li>
-<li>feat(core): agent account balancer with strategies, cooldown failover and caps</li>
-<li>feat: generated app icon (Scripts/make-icon.swift, AppIcon.icns)</li>
-<li>Responsive UI, Releases/Open PRs/Accounts views, multi-pane settings, snapshot harness</li>
-<li>feat(core): OAuth device flow, isolated agent CLI logins, open-PR and release reads</li>
-<li>feat(core): release tracking, per-repo settings and rich-text review requests</li>
-<li>test: smoke test uses the app's Keychain token</li>
-<li>docs: describe Keychain credentials and opt-in agents</li>
-<li>feat(app): paste-a-token GitHub sign-in and opt-in agent accounts UI</li>
-<li>feat(core): keychain-only GitHub token, scrubbed gh/git env, opt-in agents</li>
-<li>fix(core): strip OPENAI_API_KEY from agent environment</li>
-<li>docs: add README with agent safety model, design notes, license and contributing guide</li>
-<li>feat(app): add SwiftUI dashboard, detail inspector, menu bar extra and settings</li>
-<li>test(core): cover classifier, check filtering, Slack, merged pruning and agent safety</li>
-<li>feat(core): add PR monitoring core with gh client, classifier and agent runner</li>
+            <description><![CDATA[<h2>Mergekeeper 0.1.2</h2><ul>
+<li>fix(release): build universal binary from two native slices joined with lipo</li>
+<li>feat(release): release automatically on every code change to main</li>
+<li>refactor(core): drop legacy keychain and secrets-file migration</li>
+<li>Merge remote-tracking branch 'origin/main' into an/mergekeeper-keychain-perms-622ce7</li>
+<li>feat(core): keep secrets out of the login keychain so macOS never prompts</li>
+<li>chore: repos moved to the vipinsiders org; update owners and feed URLs</li>
+<li>ci: run tests on pull requests; add PR template</li>
+<li>feat(release): GitHub tag-triggered release pipeline, setup-ci.sh, agent docs</li>
+<li>Merge branch 'an/mergekeeper-notification-permissions-e5ad60'</li>
+<li>docs: add AGENTS.md with the agent deploy instructions</li>
+<li>feat(notifications): ask for notification permission at launch</li>
+<li>feat(release): Scripts/ship.sh one-command release; CI release is manual until secrets exist</li>
+<li>fix(release): find gh outside the shell PATH, fall back to git clone</li>
 </ul>
 ]]></description>
-            <enclosure url="https://alex-n-repeatmd.github.io/mergekeeper-releases/Mergekeeper-0.1.1.dmg" length="9773041" type="application/octet-stream" sparkle:edSignature="wHwOK3/GRH7sutqgndIoE2pFUbDT44sIGU69Nf/D0awSsR6NVQe6XKjEbZKYgFzZ8wKXUdMNpsLYVI0De2Z6Ag=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Mergekeeper-0.1.2.dmg" length="9666418" type="application/octet-stream" sparkle:edSignature="BMpfrxY/8wot5eXVzHh41lsubl3XeG3cCnemejH4lGS9fyg9Aos4xq2cwz8gT3Z1Qqul2+sdLQj469R9JzF/Bg=="/>
         </item>
     </channel>
 </rss>
