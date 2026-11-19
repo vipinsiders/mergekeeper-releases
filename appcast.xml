@@ -3,16 +3,16 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.13</title>
-            <pubDate>Thu, 19 Nov 2026 22:14:33 +0000</pubDate>
-            <sparkle:version>113</sparkle:version>
-            <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
+            <title>0.1.14</title>
+            <pubDate>Thu, 19 Nov 2026 22:22:24 +0000</pubDate>
+            <sparkle:version>114</sparkle:version>
+            <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.13</h2><ul>
-<li>Fix a timing bug that failed the release build and could drop command output (#20)</li>
+            <description><![CDATA[<h2>Formula 0.1.14</h2><ul>
+<li>Ideas is now on for everyone, first in the sidebar (#22)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.13.dmg" length="42889552" type="application/octet-stream" sparkle:edSignature="eX273a0LudrOEnJO3tDYV6ZM85BCJqsdN/w77NmVM8tBsmkNIh0+on2gG9nxGYAioLQy58Ig2dJ35GVbDfKVDg=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.14.dmg" length="42906662" type="application/octet-stream" sparkle:edSignature="rWoV1hRaydhCnFBfrIWQsh5mTJYtl88KPxf2Z4XxTobC70eout/taxllarmlLHlDuN7rsWCWrOV58HbcF5whCA=="/>
         </item>
     </channel>
 </rss>
