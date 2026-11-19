@@ -3,17 +3,16 @@
     <channel>
         <title>Mergekeeper</title>
         <item>
-            <title>0.1.7</title>
-            <pubDate>Thu, 19 Nov 2026 21:35:50 +0000</pubDate>
-            <sparkle:version>107</sparkle:version>
-            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+            <title>0.1.8</title>
+            <pubDate>Thu, 19 Nov 2026 21:43:33 +0000</pubDate>
+            <sparkle:version>108</sparkle:version>
+            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Mergekeeper 0.1.7</h2><ul>
-<li>Always show last updated and a Refresh button in the status bar (#11)</li>
-<li>Fix Codex sign-in failing with EACCES on installs missing the execute bit (#10)</li>
+            <description><![CDATA[<h2>Mergekeeper 0.1.8</h2><ul>
+<li>Bring back the Shipping board and make it easier to read (#14)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Mergekeeper-0.1.7.dmg" length="41295695" type="application/octet-stream" sparkle:edSignature="8wCT+8ShH5Ev5krea/Go7MyR+PVa4cv1s2iOOCWGGkrsbpEdLRwDdY+6+4qGqervb2uvJKGWJ5oe2bgmQlLRAw=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Mergekeeper-0.1.8.dmg" length="41404698" type="application/octet-stream" sparkle:edSignature="V/6CB6bXt/3ZhTc1/VxVj+utFjxj4sGif9VbffRpZYxgF0cHKpQGuxfdzNbPf5O79brpGrYZKgZQlJr/f/C7Ag=="/>
         </item>
     </channel>
 </rss>
