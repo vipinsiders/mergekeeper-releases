@@ -3,17 +3,16 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.17</title>
-            <pubDate>Thu, 19 Nov 2026 22:43:40 +0000</pubDate>
-            <sparkle:version>117</sparkle:version>
-            <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
+            <title>0.1.18</title>
+            <pubDate>Thu, 19 Nov 2026 22:54:12 +0000</pubDate>
+            <sparkle:version>118</sparkle:version>
+            <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.17</h2><ul>
-<li>Stop content being cut off, make Stop always end a stuck agent, and add an easier Stop watching with Undo (#26)</li>
-<li>Ideas: size reuse-heavy ideas as Small, and keep Small ideas to one pull request (#25)</li>
+            <description><![CDATA[<h2>Formula 0.1.18</h2><ul>
+<li>Ideas: agents now read the real core-services code on every Mac (#27)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.17.dmg" length="43257729" type="application/octet-stream" sparkle:edSignature="lH7HCvIqWb8voGj888uN59dVK7ClN7HUObXzh2yI6rbLysHuRDMlvbtE4bJdF8gnawKRK0DFQYzlURtS2TWaCg=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.18.dmg" length="43297479" type="application/octet-stream" sparkle:edSignature="2sj1Cmz/PucZr7ED4mO1I0yBtYGnCEXKWcWn46OqIBy9HwjyqRlqFZTeTm3FDuaCecGIeLjMc8kj5DKH3OxUCw=="/>
         </item>
     </channel>
 </rss>
