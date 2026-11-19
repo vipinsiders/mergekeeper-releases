@@ -3,16 +3,16 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.12</title>
-            <pubDate>Thu, 19 Nov 2026 22:08:40 +0000</pubDate>
-            <sparkle:version>112</sparkle:version>
-            <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+            <title>0.1.13</title>
+            <pubDate>Thu, 19 Nov 2026 22:14:33 +0000</pubDate>
+            <sparkle:version>113</sparkle:version>
+            <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.12</h2><ul>
-<li>Stop Codex and accounts showing as unlinked after updates, and redesign the PR details window (#21)</li>
+            <description><![CDATA[<h2>Formula 0.1.13</h2><ul>
+<li>Fix a timing bug that failed the release build and could drop command output (#20)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.12.dmg" length="42886293" type="application/octet-stream" sparkle:edSignature="oj/gt8zRZPSamkDt58qMpi559JyDGWT0Vqz1ykUQjkcWHG5/3axRwdPRfB84Up9d4BDVMJ49Eboju3HWZo1qBg=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.13.dmg" length="42889552" type="application/octet-stream" sparkle:edSignature="eX273a0LudrOEnJO3tDYV6ZM85BCJqsdN/w77NmVM8tBsmkNIh0+on2gG9nxGYAioLQy58Ig2dJ35GVbDfKVDg=="/>
         </item>
     </channel>
 </rss>
