@@ -3,17 +3,16 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.34</title>
-            <pubDate>Fri, 20 Nov 2026 15:54:52 +0000</pubDate>
-            <sparkle:version>134</sparkle:version>
-            <sparkle:shortVersionString>0.1.34</sparkle:shortVersionString>
+            <title>0.1.35</title>
+            <pubDate>Fri, 20 Nov 2026 16:03:06 +0000</pubDate>
+            <sparkle:version>135</sparkle:version>
+            <sparkle:shortVersionString>0.1.35</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.34</h2><ul>
-<li>Ideas: builds run on the Mac or in the cloud with Claude Code, Codex and Cursor sharing the work, usage is tracked, and Test says what it is waiting for (#38)</li>
-<li>Ideas: designs start from a saved copy of the app's look, are clicked through before you see them, and small changes cost less (#42)</li>
+            <description><![CDATA[<h2>Formula 0.1.35</h2><ul>
+<li>Ideas: Ideate tracks its cost, skips needless agent runs, takes screenshots and checks briefs harder (#46)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.34.dmg" length="48815751" type="application/octet-stream" sparkle:edSignature="Ubv7fBXij2rkQ8KEh/o9gsmdo0Jg4qmkiuHcWKhB9DlJbhnfaH+Ktsxrmar4F84UNvnaq1QEMkTKEyn/qVzWBw=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.35.dmg" length="49362391" type="application/octet-stream" sparkle:edSignature="pJotWUToKNQ+6pWrA9UjdkeSVIjvzdBvrf6oBFY92lUTqchUf1G077Ff5QdWhCRwdOIlxko659ns7OW5YNjqBw=="/>
         </item>
     </channel>
 </rss>
