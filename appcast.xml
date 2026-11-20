@@ -3,18 +3,16 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.47</title>
-            <pubDate>Fri, 20 Nov 2026 19:09:16 +0000</pubDate>
-            <sparkle:version>147</sparkle:version>
-            <sparkle:shortVersionString>0.1.47</sparkle:shortVersionString>
+            <title>0.1.48</title>
+            <pubDate>Fri, 20 Nov 2026 19:23:12 +0000</pubDate>
+            <sparkle:version>148</sparkle:version>
+            <sparkle:shortVersionString>0.1.48</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.47</h2><ul>
-<li>Ideas: a change after testing no longer adds the same check to the test plan twice (#71)</li>
-<li>Windows: CI builds an installer for the Windows app [skip release] (#70)</li>
-<li>Ideas: every build stage starts from what earlier agents learned about building here (#69)</li>
+            <description><![CDATA[<h2>Formula 0.1.48</h2><ul>
+<li>Support opens without an Intercom sign-in, and the app can read feature flags and production logs through Formula's relay (#62)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.47.dmg" length="50710303" type="application/octet-stream" sparkle:edSignature="UjxPjoP268lKkGCXaQtBPzrcmvfVTqSwLkrYiGuNByAyUTmoK4EVKtmu2BVP601Cg/513qmwdgZQVphL0YBgCg=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.48.dmg" length="50801493" type="application/octet-stream" sparkle:edSignature="Ex8E6Ep4xuN4Q42MHkvsOWHg8apR4L7AlB6M8wG+I3qzLFxVn113FFs0OREkJzg6M9CE40w4O37MDPH9+k+yCA=="/>
         </item>
     </channel>
 </rss>
