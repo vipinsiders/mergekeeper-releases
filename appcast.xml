@@ -3,16 +3,16 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.40</title>
-            <pubDate>Fri, 20 Nov 2026 17:51:15 +0000</pubDate>
-            <sparkle:version>140</sparkle:version>
-            <sparkle:shortVersionString>0.1.40</sparkle:shortVersionString>
+            <title>0.1.41</title>
+            <pubDate>Fri, 20 Nov 2026 17:59:45 +0000</pubDate>
+            <sparkle:version>141</sparkle:version>
+            <sparkle:shortVersionString>0.1.41</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.40</h2><ul>
-<li>Groundwork for Formula on Windows, and a preview of the redesigned screens (View > Use the New Screens) (#50)</li>
+            <description><![CDATA[<h2>Formula 0.1.41</h2><ul>
+<li>Ideas: testing a build is quicker and tells the truth: a time budget, checks the preview itself blocked, notes between runs, and follow-up changes checked only where they changed (#48)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.40.dmg" length="50175850" type="application/octet-stream" sparkle:edSignature="gBBPf89xGUrBOjohAQ7rqY4TLB4NdywgX3r8mJUxuuGWNgsnfluTB7iEpjb/Ko+8wD/eO+gjsBWtGZBJuYk8CQ=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.41.dmg" length="50226256" type="application/octet-stream" sparkle:edSignature="46J9NZdPY4DU8vFT22ZkdFtsWEJC8E73OftTWUxMtl7lNO2t1HErTMQ+gOgp4Wg3ROCHi24dgb7vyctlmzw/Dg=="/>
         </item>
     </channel>
 </rss>
