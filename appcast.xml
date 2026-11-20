@@ -3,20 +3,18 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.49</title>
-            <pubDate>Fri, 20 Nov 2026 19:35:54 +0000</pubDate>
-            <sparkle:version>149</sparkle:version>
-            <sparkle:shortVersionString>0.1.49</sparkle:shortVersionString>
+            <title>0.1.50</title>
+            <pubDate>Fri, 20 Nov 2026 19:45:47 +0000</pubDate>
+            <sparkle:version>150</sparkle:version>
+            <sparkle:shortVersionString>0.1.50</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.49</h2><ul>
-<li>Releases: after x.y.99 the next version is x.(y+1).0, so updates keep arriving (#75)</li>
-<li>Windows: the test suite passes on Windows, and CI runs on main are left to finish [skip release] (#73)</li>
-<li>New screens (preview): edit the brief by hand, add a pull request, and see what Formula has done (#68)</li>
-<li>Relay security: source files are no longer downloadable, Slack posts cannot page or message people, and lookups are rationed (#72)</li>
-<li>Support opens without an Intercom sign-in, and the app can read feature flags and production logs through Formula's relay (#62)</li>
+            <description><![CDATA[<h2>Formula 0.1.50</h2><ul>
+<li>Updates: a new version waits for working agents to finish before it relaunches Formula (#77)</li>
+<li>Agents can look up production logs and feature flags with no sign-in, and an idea's feature switch is a real GrowthBook flag you can turn on from Release (#78)</li>
+<li>Releases: the public releases repo stops growing by 50 MB with every release (#76)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.49.dmg" length="50822512" type="application/octet-stream" sparkle:edSignature="HvwLTePDu/FtJpLU26HovF/2yrUlbve1aMCRkYPBLVhG5rU9uEIH/uuG9y2jFhkJS4uS363hWDPyMUAU6TSVCA=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.50.dmg" length="50978894" type="application/octet-stream" sparkle:edSignature="RJwbWWTU0/T1yi6fmX2PNEwtJzb4b58jYth6GESRvNZPEx9+jkdLpaYK+HKWQY7jvJWBs6/K7mYe16C9NkbbBw=="/>
         </item>
     </channel>
 </rss>
