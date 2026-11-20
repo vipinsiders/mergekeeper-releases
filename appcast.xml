@@ -3,17 +3,18 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.59</title>
-            <pubDate>Fri, 20 Nov 2026 22:04:50 +0000</pubDate>
-            <sparkle:version>159</sparkle:version>
-            <sparkle:shortVersionString>0.1.59</sparkle:shortVersionString>
+            <title>0.1.60</title>
+            <pubDate>Fri, 20 Nov 2026 22:12:05 +0000</pubDate>
+            <sparkle:version>160</sparkle:version>
+            <sparkle:shortVersionString>0.1.60</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.59</h2><ul>
-<li>Integrations: every agent gets the connected tools the same way, read-only (RepeatMD Admin, Metabase, Customer.io and the rest) (#110)</li>
-<li>Ideas: archive and delete ideas again, plus a rotating glow and small animations (#109)</li>
+            <description><![CDATA[<h2>Formula 0.1.60</h2><ul>
+<li>Ideas: when the product's checks stop the private copy being made, an agent fixes it instead of Test waiting for ever (#111)</li>
+<li>Tools: connect Linear or RMD Requests, and agents read an idea's ticket before they start (#113)</li>
+<li>Ideas: a fast lane for small changes, and status lines and test plans in plain words (#115)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.59.dmg" length="45172006" type="application/octet-stream" sparkle:edSignature="6Gm/WsjMknaE98mB83MVRv6WVRyE72sRXFkTiGt17y/jZBLDVskKG6L/C1P49VIQ4fxFbii8R4GHzLOvs7lVDg=="/>
+            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.60.dmg" length="45224074" type="application/octet-stream" sparkle:edSignature="E/cDgm1deAY0nGWDCWibzropBQn4BuEWbh79jA3d5EFZVSouyO0s04KrVf7AZz17QCyLiZ6cGbPgTQMdcHR7DQ=="/>
         </item>
     </channel>
 </rss>
