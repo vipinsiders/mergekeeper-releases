@@ -3,17 +3,17 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.63</title>
-            <pubDate>Fri, 20 Nov 2026 22:35:42 +0000</pubDate>
-            <sparkle:version>163</sparkle:version>
-            <sparkle:shortVersionString>0.1.63</sparkle:shortVersionString>
+            <title>0.1.64</title>
+            <pubDate>Fri, 20 Nov 2026 22:43:06 +0000</pubDate>
+            <sparkle:version>164</sparkle:version>
+            <sparkle:shortVersionString>0.1.64</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.63</h2><ul>
-<li>Ideas: the brief is written on the ticket, and your open tickets are offered as ideas to start (#123)</li>
-<li>Support: a co-pilot that looks into conversations, customer history, duplicates, saved replies, reminders and alerts (#122)</li>
+            <description><![CDATA[<h2>Formula 0.1.64</h2><ul>
+<li>Support: the Salesforce card says whether RepeatMD and Ageless are live, and what is being cancelled (#126)</li>
+<li>Ideas: a replay script that runs a saved small idea through the real agents [skip release] (#117)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.63.dmg" length="46759135" type="application/octet-stream" sparkle:edSignature="QcYX/G0FUmrSsG5q0X8Hjj57jTVwWpsPG1CNhSYDienlhXP80Sf2PqHtNqVbEdFheIpw7NjaUEGaoS23K5ukBA=="/>
+            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.64.dmg" length="46812072" type="application/octet-stream" sparkle:edSignature="EoSXOiMqfQWJX07b6PY9JhyWhEwED81pnhTtaSAEUnJnrShLYyv0gaPtrjc6lplHYYOLCYOSkro0PdTYnEfRDQ=="/>
         </item>
     </channel>
 </rss>
