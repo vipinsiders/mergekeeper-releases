@@ -3,17 +3,17 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.64</title>
-            <pubDate>Fri, 20 Nov 2026 22:43:06 +0000</pubDate>
-            <sparkle:version>164</sparkle:version>
-            <sparkle:shortVersionString>0.1.64</sparkle:shortVersionString>
+            <title>0.1.65</title>
+            <pubDate>Fri, 20 Nov 2026 22:51:34 +0000</pubDate>
+            <sparkle:version>165</sparkle:version>
+            <sparkle:shortVersionString>0.1.65</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.64</h2><ul>
-<li>Support: the Salesforce card says whether RepeatMD and Ageless are live, and what is being cancelled (#126)</li>
-<li>Ideas: a replay script that runs a saved small idea through the real agents [skip release] (#117)</li>
+            <description><![CDATA[<h2>Formula 0.1.65</h2><ul>
+<li>Support: Salesforce finds more customers, shows how much they use Ageless, and warns only about what still applies (#127)</li>
+<li>Ideas: a small change never asks for more than three things to try (#125)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.64.dmg" length="46812072" type="application/octet-stream" sparkle:edSignature="EoSXOiMqfQWJX07b6PY9JhyWhEwED81pnhTtaSAEUnJnrShLYyv0gaPtrjc6lplHYYOLCYOSkro0PdTYnEfRDQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.65.dmg" length="46816052" type="application/octet-stream" sparkle:edSignature="eFaYRHPr7DziSGIuOzxqC9XUV83xcanIIp41z+RffLoBxso9pFbMsO78jf60e5ajJDRB/QwvKx8xcjX1JaEqBw=="/>
         </item>
     </channel>
 </rss>
