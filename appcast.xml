@@ -3,20 +3,25 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.53</title>
-            <pubDate>Fri, 20 Nov 2026 20:41:35 +0000</pubDate>
-            <sparkle:version>153</sparkle:version>
-            <sparkle:shortVersionString>0.1.53</sparkle:shortVersionString>
+            <title>0.1.54</title>
+            <pubDate>Fri, 20 Nov 2026 21:03:09 +0000</pubDate>
+            <sparkle:version>154</sparkle:version>
+            <sparkle:shortVersionString>0.1.54</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.53</h2><ul>
-<li>Accounts: one account for each agent, so a second Claude or Codex account can no longer be added (#95)</li>
-<li>Ideas: reviewing a design is a guided walk-through with the whole window, and drawings no longer carry confusing controls of their own (#92)</li>
-<li>Settings: every setting is on the new screens (general, repositories, releases, agents, Slack and tickets, notifications, data, other) (#93)</li>
-<li>Ideas: a build picked up again skips the stages it had finished, and its clock carries on (#91)</li>
-<li>Shipping: Agents, Released, All open pull requests, Ask for reviews and GitHub status are on the new screens, with Pause automation (#90)</li>
+            <description><![CDATA[<h2>Formula 0.1.54</h2><ul>
+<li>Ideas: a plan written before Formula closed is checked, not written again (#103)</li>
+<li>Support: nothing to sign in to. It opens with your Google sign-in, and the old Intercom sign-in is removed (#101)</li>
+<li>Ideas: builds on the Mac install the photo editor's public trial copy, so the websites' tests run without a key (#100)</li>
+<li>The classic screens are gone: Formula is one set of screens on Mac and PC, with Settings, the menu bar and notifications opening the right page (#102)</li>
+<li>Ideas: a stopped build shows a red warning on its stage bar, and the builder no longer stops over branch names (#99)</li>
+<li>Chat is on the new screens: ask a question or have data analysed, with the same accounts, models and connectors (#98)</li>
+<li>Releases: the Windows build runs on its own after each release, so Mac releases stop waiting half an hour for it [skip release] (#89)</li>
+<li>Formula for Windows builds again: resumed-run records use the portable crypto import [skip release] (#97)</li>
+<li>Setup: first-time setup, the tools agents can use and the this-computer checklist are on the new screens (#96)</li>
+<li>Ideas: builds on the Mac get their packages up front, a dropped connection carries on, and small ideas skip planning (#94)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.53.dmg" length="51946458" type="application/octet-stream" sparkle:edSignature="hxKrHy22r9E3YV8JflL/BBBsSzvifBwJw7smMn+vczsAUnaPZDNbYq5ZMGQ/j9+jWFO2flNi1xGwGtsyrv2aCg=="/>
+            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.54.dmg" length="45146472" type="application/octet-stream" sparkle:edSignature="izWHrtJbKrk9DWW21D2pM46jpewnoPdNXa9A9AdmUBDNxkKsaVWfIoqCwSyk752zzLqv+8RxDPLc5jWtnFt9BA=="/>
         </item>
     </channel>
 </rss>
