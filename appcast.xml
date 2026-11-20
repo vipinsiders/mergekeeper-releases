@@ -3,16 +3,17 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.56</title>
-            <pubDate>Fri, 20 Nov 2026 21:22:40 +0000</pubDate>
-            <sparkle:version>156</sparkle:version>
-            <sparkle:shortVersionString>0.1.56</sparkle:shortVersionString>
+            <title>0.1.57</title>
+            <pubDate>Fri, 20 Nov 2026 21:50:18 +0000</pubDate>
+            <sparkle:version>157</sparkle:version>
+            <sparkle:shortVersionString>0.1.57</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.56</h2><ul>
-<li>Ideas: an agent cut off by an update carries on even when the update reworded its instructions (#105)</li>
+            <description><![CDATA[<h2>Formula 0.1.57</h2><ul>
+<li>Ideas: a small change gets tests and a test plan in proportion to it (#108)</li>
+<li>Ideas: no spending allowance per idea, so nothing stops and asks to Allow more (#106)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.56.dmg" length="45161796" type="application/octet-stream" sparkle:edSignature="tRZ9wQ8EJdY/VPksQQZRHqN1wNG7nJ1UsnxgnDQA1SqCpWQ4UGMqqILMQKODEuei+z3pOejU8WuM+OILSavCAw=="/>
+            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.57.dmg" length="45140502" type="application/octet-stream" sparkle:edSignature="MY3fAsASjUhb66S+zJfxnOQ2B/Ecrmo6bcFwZq4nPvcOZX/UbdUJB4ty1oNE0Nzo0cl9SMxYPvJ4QOlUHqwBCg=="/>
         </item>
     </channel>
 </rss>
