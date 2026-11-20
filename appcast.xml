@@ -3,16 +3,16 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.32</title>
-            <pubDate>Fri, 20 Nov 2026 15:33:28 +0000</pubDate>
-            <sparkle:version>132</sparkle:version>
-            <sparkle:shortVersionString>0.1.32</sparkle:shortVersionString>
+            <title>0.1.33</title>
+            <pubDate>Fri, 20 Nov 2026 15:41:16 +0000</pubDate>
+            <sparkle:version>133</sparkle:version>
+            <sparkle:shortVersionString>0.1.33</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.32</h2><ul>
-<li>Ideas: typeable boxes, a single work column, short non-technical questions, changeable answers (#43)</li>
+            <description><![CDATA[<h2>Formula 0.1.33</h2><ul>
+<li>Prompts: shorter briefs and leaner agent prompts, plus a page to review every prompt (#45)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.32.dmg" length="47851977" type="application/octet-stream" sparkle:edSignature="oZL9ozxwt9OgIRgPsbNTwB5fqmg21wd/9a2GaHkOIhGqVDSN5irTLSMV6ugvCe6R2RE5NiMi5+MtYE3y2J9IDw=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.33.dmg" length="47855257" type="application/octet-stream" sparkle:edSignature="SFe5YBzn2NPnI7Nn+K31CUw3kpv8YAlrNfFedMivpKSgHyg5hydjQu9Aq5AEXP9+vMQRxYJSrNRlxqJXiCCACA=="/>
         </item>
     </channel>
 </rss>
