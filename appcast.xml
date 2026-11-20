@@ -3,18 +3,17 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.62</title>
-            <pubDate>Fri, 20 Nov 2026 22:27:55 +0000</pubDate>
-            <sparkle:version>162</sparkle:version>
-            <sparkle:shortVersionString>0.1.62</sparkle:shortVersionString>
+            <title>0.1.63</title>
+            <pubDate>Fri, 20 Nov 2026 22:35:42 +0000</pubDate>
+            <sparkle:version>163</sparkle:version>
+            <sparkle:shortVersionString>0.1.63</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.62</h2><ul>
-<li>Ideas: the builder makes technical choices itself; when it truly cannot, it asks you or an engineer on Slack and carries on with the reply (#119)</li>
-<li>Chat: say what you need and Formula picks the path, with a new Deep thinker and Researcher (#121)</li>
-<li>Ideas: an idea shows its ticket, can start from one, and Formula files one for you (#120)</li>
+            <description><![CDATA[<h2>Formula 0.1.63</h2><ul>
+<li>Ideas: the brief is written on the ticket, and your open tickets are offered as ideas to start (#123)</li>
+<li>Support: a co-pilot that looks into conversations, customer history, duplicates, saved replies, reminders and alerts (#122)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.62.dmg" length="45810968" type="application/octet-stream" sparkle:edSignature="sbbPY+3LM4/fr4HjuzR/9D6FcOa9BwQLBHlFNbykJJCmtPf7zZYNKFow+yx353C3O6YiTec4sbzV1EZj0/PhCg=="/>
+            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.63.dmg" length="46759135" type="application/octet-stream" sparkle:edSignature="QcYX/G0FUmrSsG5q0X8Hjj57jTVwWpsPG1CNhSYDienlhXP80Sf2PqHtNqVbEdFheIpw7NjaUEGaoS23K5ukBA=="/>
         </item>
     </channel>
 </rss>
