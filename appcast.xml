@@ -3,18 +3,18 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.61</title>
-            <pubDate>Fri, 20 Nov 2026 22:19:35 +0000</pubDate>
-            <sparkle:version>161</sparkle:version>
-            <sparkle:shortVersionString>0.1.61</sparkle:shortVersionString>
+            <title>0.1.62</title>
+            <pubDate>Fri, 20 Nov 2026 22:27:55 +0000</pubDate>
+            <sparkle:version>162</sparkle:version>
+            <sparkle:shortVersionString>0.1.62</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.61</h2><ul>
-<li>Support: a conversation shows who the customer is in Salesforce, once Salesforce is connected (#114)</li>
-<li>Chat: search, pin and rename chats, send files, keep a stopped answer, move to another account, and 16 fixes (#118)</li>
-<li>Ideas: the badge says what is really happening, jobs show how long they usually take, and updates wait for a quiet moment (#116)</li>
+            <description><![CDATA[<h2>Formula 0.1.62</h2><ul>
+<li>Ideas: the builder makes technical choices itself; when it truly cannot, it asks you or an engineer on Slack and carries on with the reply (#119)</li>
+<li>Chat: say what you need and Formula picks the path, with a new Deep thinker and Researcher (#121)</li>
+<li>Ideas: an idea shows its ticket, can start from one, and Formula files one for you (#120)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.61.dmg" length="45450840" type="application/octet-stream" sparkle:edSignature="V8mFnslP6Ziuks6/fc2XSLazerEWZEj32JLhTbZuQVHuPewxfzDe31y/Wcc71vwL1OmuKlgdIRR0r1OlmG6GDw=="/>
+            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.62.dmg" length="45810968" type="application/octet-stream" sparkle:edSignature="sbbPY+3LM4/fr4HjuzR/9D6FcOa9BwQLBHlFNbykJJCmtPf7zZYNKFow+yx353C3O6YiTec4sbzV1EZj0/PhCg=="/>
         </item>
     </channel>
 </rss>
