@@ -3,16 +3,16 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.28</title>
-            <pubDate>Fri, 20 Nov 2026 14:32:57 +0000</pubDate>
-            <sparkle:version>128</sparkle:version>
-            <sparkle:shortVersionString>0.1.28</sparkle:shortVersionString>
+            <title>0.1.29</title>
+            <pubDate>Fri, 20 Nov 2026 14:47:27 +0000</pubDate>
+            <sparkle:version>129</sparkle:version>
+            <sparkle:shortVersionString>0.1.29</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.28</h2><ul>
-<li>Ideas: archive and restore ideas, with a visible menu to archive or delete (#39)</li>
+            <description><![CDATA[<h2>Formula 0.1.29</h2><ul>
+<li>Agents: git works from the first command of a build (#40)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.28.dmg" length="47453562" type="application/octet-stream" sparkle:edSignature="TUw1WBvHVEbl/WSeibNWUyRQWGNpRfHOhEkEilsszU9PVOxVZxkIMWTYCcSMGxpso/mwMMc3e03c9XqZyNahCg=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.29.dmg" length="47453027" type="application/octet-stream" sparkle:edSignature="m6XGW8gxjZDCuBiYAcW912d5tgZHDxPTegYA/0B+jrCsPvyeu6TUNQ3NWteHzvd11R8WGy3D0pBcp5+JykfyDg=="/>
         </item>
     </channel>
 </rss>
