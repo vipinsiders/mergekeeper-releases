@@ -3,17 +3,18 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.65</title>
-            <pubDate>Fri, 20 Nov 2026 22:51:34 +0000</pubDate>
-            <sparkle:version>165</sparkle:version>
-            <sparkle:shortVersionString>0.1.65</sparkle:shortVersionString>
+            <title>0.1.66</title>
+            <pubDate>Fri, 20 Nov 2026 22:59:09 +0000</pubDate>
+            <sparkle:version>166</sparkle:version>
+            <sparkle:shortVersionString>0.1.66</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.65</h2><ul>
-<li>Support: Salesforce finds more customers, shows how much they use Ageless, and warns only about what still applies (#127)</li>
-<li>Ideas: a small change never asks for more than three things to try (#125)</li>
+            <description><![CDATA[<h2>Formula 0.1.66</h2><ul>
+<li>Support: the list shows in red which customers are cancelling, asked to cancel, or are behind on payment (#130)</li>
+<li>Support: team inboxes, reassigning, tags, snoozed and closed views, and pictures, so Intercom can stay closed (#124)</li>
+<li>Tools: Metabase connects again, and Formula can sign in to RepeatMD Admin as itself (#128)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.65.dmg" length="46816052" type="application/octet-stream" sparkle:edSignature="eFaYRHPr7DziSGIuOzxqC9XUV83xcanIIp41z+RffLoBxso9pFbMsO78jf60e5ajJDRB/QwvKx8xcjX1JaEqBw=="/>
+            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.66.dmg" length="47018108" type="application/octet-stream" sparkle:edSignature="8i35vOmEtpEGImbbXZcmaOm9CZkg7X9798d14Y6dnG8syXRe/oxrJmH2zgnUjD5Rohb7KsCrJPGDGSvJ+odVAQ=="/>
         </item>
     </channel>
 </rss>
