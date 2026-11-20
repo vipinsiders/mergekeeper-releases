@@ -3,16 +3,16 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.26</title>
-            <pubDate>Fri, 20 Nov 2026 04:12:15 +0000</pubDate>
-            <sparkle:version>126</sparkle:version>
-            <sparkle:shortVersionString>0.1.26</sparkle:shortVersionString>
+            <title>0.1.27</title>
+            <pubDate>Fri, 20 Nov 2026 13:53:15 +0000</pubDate>
+            <sparkle:version>127</sparkle:version>
+            <sparkle:shortVersionString>0.1.27</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.26</h2><ul>
-<li>Tools: RepeatMD Admin and Metabase for Claude Code, Codex and Cursor (#37)</li>
+            <description><![CDATA[<h2>Formula 0.1.27</h2><ul>
+<li>Ideas: a second agent checks every step, cloud builds survive long runs and restarts, and a built change gets its private test copy by itself (#36)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.26.dmg" length="46302007" type="application/octet-stream" sparkle:edSignature="JuesLATyaQFvGEEmLdAm7/js1Go3gYEUvRi7qzzZxR3HDj4rPkyDp5PCZsXKqt2IOAR451KRmlMF2/oX6UajAw=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.27.dmg" length="47351231" type="application/octet-stream" sparkle:edSignature="NIhbgTfTWHxPJdy5QvjFT4pxKOjz8dCSv6zI7aUv1D7XcWOl+Hy5uGgBYWZGTjQnpQlayDPwdzfGtAOfw7vAAw=="/>
         </item>
     </channel>
 </rss>
