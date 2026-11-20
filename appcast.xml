@@ -3,17 +3,17 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.43</title>
-            <pubDate>Fri, 20 Nov 2026 18:19:11 +0000</pubDate>
-            <sparkle:version>143</sparkle:version>
-            <sparkle:shortVersionString>0.1.43</sparkle:shortVersionString>
+            <title>0.1.44</title>
+            <pubDate>Fri, 20 Nov 2026 18:28:29 +0000</pubDate>
+            <sparkle:version>144</sparkle:version>
+            <sparkle:shortVersionString>0.1.44</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.43</h2><ul>
-<li>Ideas: Formula checks and prepares the Mac for a build itself, and uses the cloud when anything is missing (#61)</li>
-<li>Ideas: a build no longer waits for a Linear ticket. New screens (preview): a step tracker and drawings in the page (#59)</li>
+            <description><![CDATA[<h2>Formula 0.1.44</h2><ul>
+<li>New screens (preview): paste a screenshot, and an Accounts screen (#63)</li>
+<li>Relay: reads Intercom, manages GrowthBook flags and searches Datadog, with read-only lookups for agents (#60)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.43.dmg" length="50623365" type="application/octet-stream" sparkle:edSignature="ZQQbvToCIXt/OUaS1Q9qe+aYa39cK3ZiUvQIwS90dhXVJnF/1X+gCdXTj1TshrSbbcJV1zpWUPgy3f8v8ITRDA=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.44.dmg" length="50681295" type="application/octet-stream" sparkle:edSignature="+OB9B1iX4qHMnsuC4Eq5T0+hGQhRW0to2A3dd/Lzyb5dz16si/zBYjuEW1ODqEJbllFJlQg2bLzphdTqMtCSBw=="/>
         </item>
     </channel>
 </rss>
