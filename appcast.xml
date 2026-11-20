@@ -3,16 +3,18 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.41</title>
-            <pubDate>Fri, 20 Nov 2026 17:59:45 +0000</pubDate>
-            <sparkle:version>141</sparkle:version>
-            <sparkle:shortVersionString>0.1.41</sparkle:shortVersionString>
+            <title>0.1.42</title>
+            <pubDate>Fri, 20 Nov 2026 18:09:25 +0000</pubDate>
+            <sparkle:version>142</sparkle:version>
+            <sparkle:shortVersionString>0.1.42</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.41</h2><ul>
-<li>Ideas: testing a build is quicker and tells the truth: a time budget, checks the preview itself blocked, notes between runs, and follow-up changes checked only where they changed (#48)</li>
+            <description><![CDATA[<h2>Formula 0.1.42</h2><ul>
+<li>Ideas: a Codex build on the Mac no longer hangs for twenty minutes on a step its sandbox cannot finish (#56)</li>
+<li>New screens (preview): every idea stage on the idea's page (#55)</li>
+<li>New screens (preview): Support, and a pull request's real history (#54)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.41.dmg" length="50226256" type="application/octet-stream" sparkle:edSignature="46J9NZdPY4DU8vFT22ZkdFtsWEJC8E73OftTWUxMtl7lNO2t1HErTMQ+gOgp4Wg3ROCHi24dgb7vyctlmzw/Dg=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.42.dmg" length="50464336" type="application/octet-stream" sparkle:edSignature="TfITj60T83HCpJT/ebiVnJ8VEkjdUHHd2ik30ZABDiikEfKBq3Uh81GKU0F4Y/Rj9nWyyCA4ohCqb6H3HpDxDA=="/>
         </item>
     </channel>
 </rss>
