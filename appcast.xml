@@ -3,25 +3,16 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.54</title>
-            <pubDate>Fri, 20 Nov 2026 21:03:09 +0000</pubDate>
-            <sparkle:version>154</sparkle:version>
-            <sparkle:shortVersionString>0.1.54</sparkle:shortVersionString>
+            <title>0.1.55</title>
+            <pubDate>Fri, 20 Nov 2026 21:15:29 +0000</pubDate>
+            <sparkle:version>155</sparkle:version>
+            <sparkle:shortVersionString>0.1.55</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.54</h2><ul>
-<li>Ideas: a plan written before Formula closed is checked, not written again (#103)</li>
-<li>Support: nothing to sign in to. It opens with your Google sign-in, and the old Intercom sign-in is removed (#101)</li>
-<li>Ideas: builds on the Mac install the photo editor's public trial copy, so the websites' tests run without a key (#100)</li>
-<li>The classic screens are gone: Formula is one set of screens on Mac and PC, with Settings, the menu bar and notifications opening the right page (#102)</li>
-<li>Ideas: a stopped build shows a red warning on its stage bar, and the builder no longer stops over branch names (#99)</li>
-<li>Chat is on the new screens: ask a question or have data analysed, with the same accounts, models and connectors (#98)</li>
-<li>Releases: the Windows build runs on its own after each release, so Mac releases stop waiting half an hour for it [skip release] (#89)</li>
-<li>Formula for Windows builds again: resumed-run records use the portable crypto import [skip release] (#97)</li>
-<li>Setup: first-time setup, the tools agents can use and the this-computer checklist are on the new screens (#96)</li>
-<li>Ideas: builds on the Mac get their packages up front, a dropped connection carries on, and small ideas skip planning (#94)</li>
+            <description><![CDATA[<h2>Formula 0.1.55</h2><ul>
+<li>Settings: each page opens at its top instead of where the last page was scrolled to (#104)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.54.dmg" length="45146472" type="application/octet-stream" sparkle:edSignature="izWHrtJbKrk9DWW21D2pM46jpewnoPdNXa9A9AdmUBDNxkKsaVWfIoqCwSyk752zzLqv+8RxDPLc5jWtnFt9BA=="/>
+            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.55.dmg" length="45160563" type="application/octet-stream" sparkle:edSignature="73C9xwS56QeplPFIkLWJESCSH3nxNdS07AMFKG6gkbFkkd+LOB+2MX2IYM+Lma3B7V4mzUZEjaJhcZFQZolXAw=="/>
         </item>
     </channel>
 </rss>
