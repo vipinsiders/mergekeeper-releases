@@ -3,18 +3,16 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.66</title>
-            <pubDate>Fri, 20 Nov 2026 22:59:09 +0000</pubDate>
-            <sparkle:version>166</sparkle:version>
-            <sparkle:shortVersionString>0.1.66</sparkle:shortVersionString>
+            <title>0.1.67</title>
+            <pubDate>Fri, 20 Nov 2026 23:07:02 +0000</pubDate>
+            <sparkle:version>167</sparkle:version>
+            <sparkle:shortVersionString>0.1.67</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.66</h2><ul>
-<li>Support: the list shows in red which customers are cancelling, asked to cancel, or are behind on payment (#130)</li>
-<li>Support: team inboxes, reassigning, tags, snoozed and closed views, and pictures, so Intercom can stay closed (#124)</li>
-<li>Tools: Metabase connects again, and Formula can sign in to RepeatMD Admin as itself (#128)</li>
+            <description><![CDATA[<h2>Formula 0.1.67</h2><ul>
+<li>Ideas: the agent that tries a change takes a picture of each result, shown under the check as proof (#131)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.66.dmg" length="47018108" type="application/octet-stream" sparkle:edSignature="8i35vOmEtpEGImbbXZcmaOm9CZkg7X9798d14Y6dnG8syXRe/oxrJmH2zgnUjD5Rohb7KsCrJPGDGSvJ+odVAQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.67.dmg" length="47087877" type="application/octet-stream" sparkle:edSignature="OAQ69lCnenRHVw72lAYeOvuHRYh78Jb+sQC/xWk/kYfflyFf3gTKNZ0Wh0C+t/Tl7iMO27xNqiE0gkay4adwDQ=="/>
         </item>
     </channel>
 </rss>
