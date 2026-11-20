@@ -3,24 +3,20 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.52</title>
-            <pubDate>Fri, 20 Nov 2026 20:25:11 +0000</pubDate>
-            <sparkle:version>152</sparkle:version>
-            <sparkle:shortVersionString>0.1.52</sparkle:shortVersionString>
+            <title>0.1.53</title>
+            <pubDate>Fri, 20 Nov 2026 20:41:35 +0000</pubDate>
+            <sparkle:version>153</sparkle:version>
+            <sparkle:shortVersionString>0.1.53</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.52</h2><ul>
-<li>Shipping: a pull request opens with its comments, checks and the agent's conversation, and you can reply, resolve and direct the agent there (#88)</li>
-<li>Updates: Install and Relaunch always installs; agents carry on when Formula reopens (#87)</li>
-<li>Settings: opening Settings no longer quits the app (#86)</li>
-<li>Ideas: an agent that was working when Formula closed carries on from where it stopped (#85)</li>
-<li>Updates download from a branch that is replaced each release, so the releases repo stops growing (#84)</li>
-<li>Ideas: small ideas are planned and checked in proportion, and the sign-off note says who did what (#83)</li>
-<li>Formula opens on its new screens; View > Use the Classic Screens goes back (#82)</li>
-<li>Ideas: a drawing that was finished when Formula closed is not drawn again (#81)</li>
-<li>Ideas: a first drawing is shown while it is being checked, and the Design progress moves on to the check (#80)</li>
+            <description><![CDATA[<h2>Formula 0.1.53</h2><ul>
+<li>Accounts: one account for each agent, so a second Claude or Codex account can no longer be added (#95)</li>
+<li>Ideas: reviewing a design is a guided walk-through with the whole window, and drawings no longer carry confusing controls of their own (#92)</li>
+<li>Settings: every setting is on the new screens (general, repositories, releases, agents, Slack and tickets, notifications, data, other) (#93)</li>
+<li>Ideas: a build picked up again skips the stages it had finished, and its clock carries on (#91)</li>
+<li>Shipping: Agents, Released, All open pull requests, Ask for reviews and GitHub status are on the new screens, with Pause automation (#90)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.52.dmg" length="51294124" type="application/octet-stream" sparkle:edSignature="7V0FhCYbGUH9h7h1mDJopwblNckxL8/Re7XamC3YjetZL3qGw2UVyBFZv72mKFvyPSK5iMHls02t9MHIjBC8Dw=="/>
+            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.53.dmg" length="51946458" type="application/octet-stream" sparkle:edSignature="hxKrHy22r9E3YV8JflL/BBBsSzvifBwJw7smMn+vczsAUnaPZDNbYq5ZMGQ/j9+jWFO2flNi1xGwGtsyrv2aCg=="/>
         </item>
     </channel>
 </rss>
