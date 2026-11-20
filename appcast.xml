@@ -3,16 +3,16 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.37</title>
-            <pubDate>Fri, 20 Nov 2026 16:20:31 +0000</pubDate>
-            <sparkle:version>137</sparkle:version>
-            <sparkle:shortVersionString>0.1.37</sparkle:shortVersionString>
+            <title>0.1.38</title>
+            <pubDate>Fri, 20 Nov 2026 16:50:59 +0000</pubDate>
+            <sparkle:version>138</sparkle:version>
+            <sparkle:shortVersionString>0.1.38</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.37</h2><ul>
-<li>Ideas: a bug keeps its kind, its section order and its own wording after the first read (#49)</li>
+            <description><![CDATA[<h2>Formula 0.1.38</h2><ul>
+<li>Ideas: a design fits its frame, can be zoomed, and takes your comment right where you click (#51)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.37.dmg" length="49476266" type="application/octet-stream" sparkle:edSignature="Lutbe7eeH2vU4kjuvfvfbV9EVr/I6ko6tuLkuFzVf/JhOyRTM3yRHl8vnypn4/CpxDDye5dN03zmnb0La/FnBg=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.38.dmg" length="49538878" type="application/octet-stream" sparkle:edSignature="i/zCRpC+G1DSZK+iUeweg7dUSAKs9U1j/bbu1LOEzclXdXhRay33HbzuSHkAZc2QHzq85ptlROCgiPdPOafxAw=="/>
         </item>
     </channel>
 </rss>
