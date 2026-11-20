@@ -3,16 +3,16 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.71</title>
-            <pubDate>Fri, 20 Nov 2026 23:39:14 +0000</pubDate>
-            <sparkle:version>171</sparkle:version>
-            <sparkle:shortVersionString>0.1.71</sparkle:shortVersionString>
+            <title>0.1.72</title>
+            <pubDate>Fri, 20 Nov 2026 23:47:28 +0000</pubDate>
+            <sparkle:version>172</sparkle:version>
+            <sparkle:shortVersionString>0.1.72</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.71</h2><ul>
-<li>Support: setting things up for a customer is held tighter, and RepeatMD Admin connects as Formula (#138)</li>
+            <description><![CDATA[<h2>Formula 0.1.72</h2><ul>
+<li>Support: resolve a conversation or ticket in one click (or Send and resolve), and move straight to the next (#139)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.71.dmg" length="47533471" type="application/octet-stream" sparkle:edSignature="TBZ865LSryq1dUBzbyiHzPDYDF9NTsGYQsIe5+gO7aF4TXHbCqmsRkquVlFI7iyrLWa+u+XRK4jibZ5rqXH4Dw=="/>
+            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.72.dmg" length="47609150" type="application/octet-stream" sparkle:edSignature="D1NfS8qBw1EEKp1fF+O3Op18coSEsuiCeuvkjk3ILH2FKObLSBXYwMclbrf2Vbqoipick9+/G8FSFhvQHlLqDQ=="/>
         </item>
     </channel>
 </rss>
