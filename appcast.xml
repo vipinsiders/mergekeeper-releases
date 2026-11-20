@@ -3,16 +3,18 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.67</title>
-            <pubDate>Fri, 20 Nov 2026 23:07:02 +0000</pubDate>
-            <sparkle:version>167</sparkle:version>
-            <sparkle:shortVersionString>0.1.67</sparkle:shortVersionString>
+            <title>0.1.68</title>
+            <pubDate>Fri, 20 Nov 2026 23:15:17 +0000</pubDate>
+            <sparkle:version>168</sparkle:version>
+            <sparkle:shortVersionString>0.1.68</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.67</h2><ul>
-<li>Ideas: the agent that tries a change takes a picture of each result, shown under the check as proof (#131)</li>
+            <description><![CDATA[<h2>Formula 0.1.68</h2><ul>
+<li>Ideas: work goes first to the maker measured quicker, and builders take fewer, bigger steps (#132)</li>
+<li>Support: the co-pilot applies RepeatMD's CX rules, looks at adoption and what to introduce, and scores its drafts; fixes from review (#133)</li>
+<li>Support: Formula reads each conversation and drafts the reply, a calmer screen, the customer at a glance, and Support on Home (#129)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.67.dmg" length="47087877" type="application/octet-stream" sparkle:edSignature="OAQ69lCnenRHVw72lAYeOvuHRYh78Jb+sQC/xWk/kYfflyFf3gTKNZ0Wh0C+t/Tl7iMO27xNqiE0gkay4adwDQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.68.dmg" length="47297019" type="application/octet-stream" sparkle:edSignature="YMRFtQNJe2UwE7mLWs3N7E98t0xd31Xm4JAuT1gRKm25s8842JWCdvmBm35KCR9AfflKLK8ZezsrC6zes1nTCA=="/>
         </item>
     </channel>
 </rss>
