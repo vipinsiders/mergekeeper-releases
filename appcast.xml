@@ -3,19 +3,24 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.51</title>
-            <pubDate>Fri, 20 Nov 2026 19:54:24 +0000</pubDate>
-            <sparkle:version>151</sparkle:version>
-            <sparkle:shortVersionString>0.1.51</sparkle:shortVersionString>
+            <title>0.1.52</title>
+            <pubDate>Fri, 20 Nov 2026 20:25:11 +0000</pubDate>
+            <sparkle:version>152</sparkle:version>
+            <sparkle:shortVersionString>0.1.52</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.51</h2><ul>
-<li>Formula for Windows is published with every release (preview) (#74)</li>
-<li>Updates: a new version waits for working agents to finish before it relaunches Formula (#77)</li>
-<li>Agents can look up production logs and feature flags with no sign-in, and an idea's feature switch is a real GrowthBook flag you can turn on from Release (#78)</li>
-<li>Releases: the public releases repo stops growing by 50 MB with every release (#76)</li>
+            <description><![CDATA[<h2>Formula 0.1.52</h2><ul>
+<li>Shipping: a pull request opens with its comments, checks and the agent's conversation, and you can reply, resolve and direct the agent there (#88)</li>
+<li>Updates: Install and Relaunch always installs; agents carry on when Formula reopens (#87)</li>
+<li>Settings: opening Settings no longer quits the app (#86)</li>
+<li>Ideas: an agent that was working when Formula closed carries on from where it stopped (#85)</li>
+<li>Updates download from a branch that is replaced each release, so the releases repo stops growing (#84)</li>
+<li>Ideas: small ideas are planned and checked in proportion, and the sign-off note says who did what (#83)</li>
+<li>Formula opens on its new screens; View > Use the Classic Screens goes back (#82)</li>
+<li>Ideas: a drawing that was finished when Formula closed is not drawn again (#81)</li>
+<li>Ideas: a first drawing is shown while it is being checked, and the Design progress moves on to the check (#80)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.51.dmg" length="50995986" type="application/octet-stream" sparkle:edSignature="WsC5BjJYOdsH5giBwzdg/b2FGMPX4LuWoy0hd9Yx1K1/PTZy0NGYOV0b4zVMXmYMpOFlam84HNsR+PVaI7TcDQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.52.dmg" length="51294124" type="application/octet-stream" sparkle:edSignature="7V0FhCYbGUH9h7h1mDJopwblNckxL8/Re7XamC3YjetZL3qGw2UVyBFZv72mKFvyPSK5iMHls02t9MHIjBC8Dw=="/>
         </item>
     </channel>
 </rss>
