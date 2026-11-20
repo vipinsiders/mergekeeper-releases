@@ -3,18 +3,18 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.60</title>
-            <pubDate>Fri, 20 Nov 2026 22:12:05 +0000</pubDate>
-            <sparkle:version>160</sparkle:version>
-            <sparkle:shortVersionString>0.1.60</sparkle:shortVersionString>
+            <title>0.1.61</title>
+            <pubDate>Fri, 20 Nov 2026 22:19:35 +0000</pubDate>
+            <sparkle:version>161</sparkle:version>
+            <sparkle:shortVersionString>0.1.61</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.60</h2><ul>
-<li>Ideas: when the product's checks stop the private copy being made, an agent fixes it instead of Test waiting for ever (#111)</li>
-<li>Tools: connect Linear or RMD Requests, and agents read an idea's ticket before they start (#113)</li>
-<li>Ideas: a fast lane for small changes, and status lines and test plans in plain words (#115)</li>
+            <description><![CDATA[<h2>Formula 0.1.61</h2><ul>
+<li>Support: a conversation shows who the customer is in Salesforce, once Salesforce is connected (#114)</li>
+<li>Chat: search, pin and rename chats, send files, keep a stopped answer, move to another account, and 16 fixes (#118)</li>
+<li>Ideas: the badge says what is really happening, jobs show how long they usually take, and updates wait for a quiet moment (#116)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.60.dmg" length="45224074" type="application/octet-stream" sparkle:edSignature="E/cDgm1deAY0nGWDCWibzropBQn4BuEWbh79jA3d5EFZVSouyO0s04KrVf7AZz17QCyLiZ6cGbPgTQMdcHR7DQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.61.dmg" length="45450840" type="application/octet-stream" sparkle:edSignature="V8mFnslP6Ziuks6/fc2XSLazerEWZEj32JLhTbZuQVHuPewxfzDe31y/Wcc71vwL1OmuKlgdIRR0r1OlmG6GDw=="/>
         </item>
     </channel>
 </rss>
