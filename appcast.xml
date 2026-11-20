@@ -3,17 +3,18 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.46</title>
-            <pubDate>Fri, 20 Nov 2026 18:59:13 +0000</pubDate>
-            <sparkle:version>146</sparkle:version>
-            <sparkle:shortVersionString>0.1.46</sparkle:shortVersionString>
+            <title>0.1.47</title>
+            <pubDate>Fri, 20 Nov 2026 19:09:16 +0000</pubDate>
+            <sparkle:version>147</sparkle:version>
+            <sparkle:shortVersionString>0.1.47</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.46</h2><ul>
-<li>Ideas: work that was running when Formula closed starts again by itself. New screens: one progress bar (#67)</li>
-<li>Formula's relay is switched on: Intercom replies and Slack posts can be sent from the app once their keys are set (#66)</li>
+            <description><![CDATA[<h2>Formula 0.1.47</h2><ul>
+<li>Ideas: a change after testing no longer adds the same check to the test plan twice (#71)</li>
+<li>Windows: CI builds an installer for the Windows app [skip release] (#70)</li>
+<li>Ideas: every build stage starts from what earlier agents learned about building here (#69)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.46.dmg" length="50704069" type="application/octet-stream" sparkle:edSignature="Px2DLUCj/sk6xF7yEorIdOnssNQPyDwFRRdUBBSJLdhi9GpDHjx3fu5GkGbCzpSXRG/bJOBp19wFfHda5/agCQ=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.47.dmg" length="50710303" type="application/octet-stream" sparkle:edSignature="UjxPjoP268lKkGCXaQtBPzrcmvfVTqSwLkrYiGuNByAyUTmoK4EVKtmu2BVP601Cg/513qmwdgZQVphL0YBgCg=="/>
         </item>
     </channel>
 </rss>
