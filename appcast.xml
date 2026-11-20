@@ -3,18 +3,17 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.42</title>
-            <pubDate>Fri, 20 Nov 2026 18:09:25 +0000</pubDate>
-            <sparkle:version>142</sparkle:version>
-            <sparkle:shortVersionString>0.1.42</sparkle:shortVersionString>
+            <title>0.1.43</title>
+            <pubDate>Fri, 20 Nov 2026 18:19:11 +0000</pubDate>
+            <sparkle:version>143</sparkle:version>
+            <sparkle:shortVersionString>0.1.43</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.42</h2><ul>
-<li>Ideas: a Codex build on the Mac no longer hangs for twenty minutes on a step its sandbox cannot finish (#56)</li>
-<li>New screens (preview): every idea stage on the idea's page (#55)</li>
-<li>New screens (preview): Support, and a pull request's real history (#54)</li>
+            <description><![CDATA[<h2>Formula 0.1.43</h2><ul>
+<li>Ideas: Formula checks and prepares the Mac for a build itself, and uses the cloud when anything is missing (#61)</li>
+<li>Ideas: a build no longer waits for a Linear ticket. New screens (preview): a step tracker and drawings in the page (#59)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.42.dmg" length="50464336" type="application/octet-stream" sparkle:edSignature="TfITj60T83HCpJT/ebiVnJ8VEkjdUHHd2ik30ZABDiikEfKBq3Uh81GKU0F4Y/Rj9nWyyCA4ohCqb6H3HpDxDA=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.43.dmg" length="50623365" type="application/octet-stream" sparkle:edSignature="ZQQbvToCIXt/OUaS1Q9qe+aYa39cK3ZiUvQIwS90dhXVJnF/1X+gCdXTj1TshrSbbcJV1zpWUPgy3f8v8ITRDA=="/>
         </item>
     </channel>
 </rss>
