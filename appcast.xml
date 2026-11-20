@@ -3,17 +3,17 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.44</title>
-            <pubDate>Fri, 20 Nov 2026 18:28:29 +0000</pubDate>
-            <sparkle:version>144</sparkle:version>
-            <sparkle:shortVersionString>0.1.44</sparkle:shortVersionString>
+            <title>0.1.45</title>
+            <pubDate>Fri, 20 Nov 2026 18:49:21 +0000</pubDate>
+            <sparkle:version>145</sparkle:version>
+            <sparkle:shortVersionString>0.1.45</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.44</h2><ul>
-<li>New screens (preview): paste a screenshot, and an Accounts screen (#63)</li>
-<li>Relay: reads Intercom, manages GrowthBook flags and searches Datadog, with read-only lookups for agents (#60)</li>
+            <description><![CDATA[<h2>Formula 0.1.45</h2><ul>
+<li>Ideas: a small change after testing is built and checked as a small change, and agents keep notes for the next one (#65)</li>
+<li>Relay: setup notes say why Vercel may skip the first deployment (#64)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.44.dmg" length="50681295" type="application/octet-stream" sparkle:edSignature="+OB9B1iX4qHMnsuC4Eq5T0+hGQhRW0to2A3dd/Lzyb5dz16si/zBYjuEW1ODqEJbllFJlQg2bLzphdTqMtCSBw=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.45.dmg" length="50678512" type="application/octet-stream" sparkle:edSignature="ah5aQukj8p6Vyayo/CX8uwFJSugM8p8VllYNvgfF5g3uVRWL9Wq2foNlGyPkb3bHajx9+iKBaFJGbNsQrQ1sDA=="/>
         </item>
     </channel>
 </rss>
