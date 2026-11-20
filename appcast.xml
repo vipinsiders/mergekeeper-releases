@@ -3,16 +3,16 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.24</title>
-            <pubDate>Fri, 20 Nov 2026 03:55:04 +0000</pubDate>
-            <sparkle:version>124</sparkle:version>
-            <sparkle:shortVersionString>0.1.24</sparkle:shortVersionString>
+            <title>0.1.25</title>
+            <pubDate>Fri, 20 Nov 2026 04:05:11 +0000</pubDate>
+            <sparkle:version>125</sparkle:version>
+            <sparkle:shortVersionString>0.1.25</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.24</h2><ul>
-<li>Ideas: tickets with a one-letter team key are recognised, follow-ups stay with the same agent, and tidy-up can never delete work (#33)</li>
+            <description><![CDATA[<h2>Formula 0.1.25</h2><ul>
+<li>Support: inbox boxes, sorting, live search, and long messages no longer overrun (#35)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.24.dmg" length="46106716" type="application/octet-stream" sparkle:edSignature="FSaaSQ0OJl8rk2D+iHskcf3tEOUSAVXb0dJBLvgHXeIaqrhw9OfctGw9CZwAJaZyrAf7OTfC1nUwQJcVP1iZCA=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.25.dmg" length="46171663" type="application/octet-stream" sparkle:edSignature="Y1Ye7z8avA8U4NGPF5sAjO2GGLtyMsEj/x3D2sbfpkYKfG10Vrffp9bMB/azoFxcQ3Z4EhfZmPOywQ10Y3QVAQ=="/>
         </item>
     </channel>
 </rss>
