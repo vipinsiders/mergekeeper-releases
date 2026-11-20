@@ -3,16 +3,16 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.21</title>
-            <pubDate>Fri, 20 Nov 2026 00:56:33 +0000</pubDate>
-            <sparkle:version>121</sparkle:version>
-            <sparkle:shortVersionString>0.1.21</sparkle:shortVersionString>
+            <title>0.1.22</title>
+            <pubDate>Fri, 20 Nov 2026 01:20:05 +0000</pubDate>
+            <sparkle:version>122</sparkle:version>
+            <sparkle:shortVersionString>0.1.22</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.21</h2><ul>
-<li>Clean up status header and remove Builder from Chat (#31)</li>
+            <description><![CDATA[<h2>Formula 0.1.22</h2><ul>
+<li>Ideas: briefs and drawings from the real app, with recovery, pinned comments, cloud agents and an honest path to review (#32)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.21.dmg" length="44464656" type="application/octet-stream" sparkle:edSignature="26JYTrZDwpvYN2Hy5ZYj6qFGvyviqt55vngQ4Jb1bXG+Bjl89hE5uJEYEmFamklbSWUsmjtZkPWpCvq1n5fRCA=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.22.dmg" length="45271264" type="application/octet-stream" sparkle:edSignature="OzvXKEx2N0mo+kJwMhWo3XLxEurvQqzBlUeJPv0g63GI74g7AIv0iLS23OWOEHxK9AZfWstBMul3eMdAKlWXBQ=="/>
         </item>
     </channel>
 </rss>
