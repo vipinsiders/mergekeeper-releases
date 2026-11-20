@@ -3,16 +3,17 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.38</title>
-            <pubDate>Fri, 20 Nov 2026 16:50:59 +0000</pubDate>
-            <sparkle:version>138</sparkle:version>
-            <sparkle:shortVersionString>0.1.38</sparkle:shortVersionString>
+            <title>0.1.39</title>
+            <pubDate>Fri, 20 Nov 2026 16:59:58 +0000</pubDate>
+            <sparkle:version>139</sparkle:version>
+            <sparkle:shortVersionString>0.1.39</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.38</h2><ul>
-<li>Ideas: a design fits its frame, can be zoomed, and takes your comment right where you click (#51)</li>
+            <description><![CDATA[<h2>Formula 0.1.39</h2><ul>
+<li>Review comments: already-fixed and wrong bot comments are resolved automatically, and agents settle technical questions themselves (#53)</li>
+<li>Agents: Codex and Cursor use a faster, cheaper model for small jobs and their strongest for hard ones (#52)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.38.dmg" length="49538878" type="application/octet-stream" sparkle:edSignature="i/zCRpC+G1DSZK+iUeweg7dUSAKs9U1j/bbu1LOEzclXdXhRay33HbzuSHkAZc2QHzq85ptlROCgiPdPOafxAw=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.39.dmg" length="49597381" type="application/octet-stream" sparkle:edSignature="IpoocN119ao37m6VFIhOkqiLjPfsxornCrdhxo3oC4kIQF//Dlm7EGBADQipYaQ6ppn12O/aCGpY2VRKSD5nCw=="/>
         </item>
     </channel>
 </rss>
