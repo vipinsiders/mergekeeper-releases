@@ -3,16 +3,20 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.48</title>
-            <pubDate>Fri, 20 Nov 2026 19:23:12 +0000</pubDate>
-            <sparkle:version>148</sparkle:version>
-            <sparkle:shortVersionString>0.1.48</sparkle:shortVersionString>
+            <title>0.1.49</title>
+            <pubDate>Fri, 20 Nov 2026 19:35:54 +0000</pubDate>
+            <sparkle:version>149</sparkle:version>
+            <sparkle:shortVersionString>0.1.49</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.48</h2><ul>
+            <description><![CDATA[<h2>Formula 0.1.49</h2><ul>
+<li>Releases: after x.y.99 the next version is x.(y+1).0, so updates keep arriving (#75)</li>
+<li>Windows: the test suite passes on Windows, and CI runs on main are left to finish [skip release] (#73)</li>
+<li>New screens (preview): edit the brief by hand, add a pull request, and see what Formula has done (#68)</li>
+<li>Relay security: source files are no longer downloadable, Slack posts cannot page or message people, and lookups are rationed (#72)</li>
 <li>Support opens without an Intercom sign-in, and the app can read feature flags and production logs through Formula's relay (#62)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.48.dmg" length="50801493" type="application/octet-stream" sparkle:edSignature="Ex8E6Ep4xuN4Q42MHkvsOWHg8apR4L7AlB6M8wG+I3qzLFxVn113FFs0OREkJzg6M9CE40w4O37MDPH9+k+yCA=="/>
+            <enclosure url="https://vipinsiders.github.io/mergekeeper-releases/Formula-0.1.49.dmg" length="50822512" type="application/octet-stream" sparkle:edSignature="HvwLTePDu/FtJpLU26HovF/2yrUlbve1aMCRkYPBLVhG5rU9uEIH/uuG9y2jFhkJS4uS363hWDPyMUAU6TSVCA=="/>
         </item>
     </channel>
 </rss>
