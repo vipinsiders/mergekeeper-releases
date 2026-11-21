@@ -3,16 +3,16 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.76</title>
-            <pubDate>Sat, 21 Nov 2026 01:16:23 +0000</pubDate>
-            <sparkle:version>176</sparkle:version>
-            <sparkle:shortVersionString>0.1.76</sparkle:shortVersionString>
+            <title>0.1.77</title>
+            <pubDate>Sat, 21 Nov 2026 01:36:45 +0000</pubDate>
+            <sparkle:version>177</sparkle:version>
+            <sparkle:shortVersionString>0.1.77</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.76</h2><ul>
-<li>Ideas: an idea waiting for its reviewer can move on, and a question about the brief is answered in seconds (#145)</li>
+            <description><![CDATA[<h2>Formula 0.1.77</h2><ul>
+<li>Support: the co-pilot reuses what it already read when a conversation has not changed (#147)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.76.dmg" length="48170216" type="application/octet-stream" sparkle:edSignature="8ihC3HaPSqeEF5s/VY4eJErfbFSuRvisdv1dfllRUTm8q8Ztv6PEBkp9rmhhYKeQrpnrKZFo479QVuZ0edtzCw=="/>
+            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.77.dmg" length="48218604" type="application/octet-stream" sparkle:edSignature="BR2FvaNxnsabf2nBfCOTFqfDk6LTBv5kIDOTSGErry75WflPmbRI6Hy/mko/+JyuD4euLyffTVr5VKl+gl/ICw=="/>
         </item>
     </channel>
 </rss>
