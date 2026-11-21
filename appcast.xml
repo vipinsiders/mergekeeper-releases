@@ -3,16 +3,16 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.78</title>
-            <pubDate>Sat, 21 Nov 2026 02:03:23 +0000</pubDate>
-            <sparkle:version>178</sparkle:version>
-            <sparkle:shortVersionString>0.1.78</sparkle:shortVersionString>
+            <title>0.1.79</title>
+            <pubDate>Sat, 21 Nov 2026 02:11:44 +0000</pubDate>
+            <sparkle:version>179</sparkle:version>
+            <sparkle:shortVersionString>0.1.79</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.78</h2><ul>
-<li>Ideas: the second reader corrects a wrong line of the brief on the spot, instead of another turn of the interviewer (#148)</li>
+            <description><![CDATA[<h2>Formula 0.1.79</h2><ul>
+<li>Ideas: one card says where an idea stands, with the agent's progress inside it (#149)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.78.dmg" length="48242470" type="application/octet-stream" sparkle:edSignature="LSb85Mr0c7wbKRYYWrwWI6aH762xpHRVYXbL3/dWGtFh7UdmGOT5w9KQFliszs9undgUVjfsfg8k19KFVqDcBw=="/>
+            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.79.dmg" length="48241619" type="application/octet-stream" sparkle:edSignature="V5y+CxJBI9GiyiDbhDZ9Jb+ustN54pMziOo3nYJd3gFt6/ibEbCO6DrxBeE38A0TmjBDuPrz3Wb5DHsX+UxzAA=="/>
         </item>
     </channel>
 </rss>
