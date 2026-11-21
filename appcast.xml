@@ -3,18 +3,16 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.73</title>
-            <pubDate>Sat, 21 Nov 2026 00:36:40 +0000</pubDate>
-            <sparkle:version>173</sparkle:version>
-            <sparkle:shortVersionString>0.1.73</sparkle:shortVersionString>
+            <title>0.1.74</title>
+            <pubDate>Sat, 21 Nov 2026 01:00:23 +0000</pubDate>
+            <sparkle:version>174</sparkle:version>
+            <sparkle:shortVersionString>0.1.74</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.73</h2><ul>
-<li>Support: Formula's work is in the conversation and the list is a queue of what it prepared, not a side panel (#142)</li>
-<li>Support: RepeatMD Admin opens inside Formula, on the conversation's clinic (#141)</li>
-<li>Remove a test log committed by mistake [skip release] (#140)</li>
+            <description><![CDATA[<h2>Formula 0.1.74</h2><ul>
+<li>Support: Formula can work in RepeatMD Admin's own screens when it sets something up (off until turned on in Settings) (#144)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.73.dmg" length="47801021" type="application/octet-stream" sparkle:edSignature="GV1jLPN2Cw4gkkuTRGavyGUQNJKeYOMQSj6sjXGY2NOnO9lHliErQyAb8srRXqJ9tJYcft06BXnyKEIAd96wBA=="/>
+            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.74.dmg" length="48094431" type="application/octet-stream" sparkle:edSignature="tuzrN5Rs80GvaN0QgDf9RUty8dcKesBG6CVEnm9plJgekgRo+HqkJWzlyC27FrelxFTtcYb78Vfv8AQU+R+VAw=="/>
         </item>
     </channel>
 </rss>
