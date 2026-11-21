@@ -3,16 +3,17 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.79</title>
-            <pubDate>Sat, 21 Nov 2026 02:11:44 +0000</pubDate>
-            <sparkle:version>179</sparkle:version>
-            <sparkle:shortVersionString>0.1.79</sparkle:shortVersionString>
+            <title>0.1.80</title>
+            <pubDate>Sat, 21 Nov 2026 02:19:43 +0000</pubDate>
+            <sparkle:version>180</sparkle:version>
+            <sparkle:shortVersionString>0.1.80</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.79</h2><ul>
-<li>Ideas: one card says where an idea stands, with the agent's progress inside it (#149)</li>
+            <description><![CDATA[<h2>Formula 0.1.80</h2><ul>
+<li>Ideas: the planner is told not to use plan mode's plan file, so its plan is no longer lost (#151)</li>
+<li>Support: the co-pilot checks Datadog for an outage when a problem could be on our side (#150)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.79.dmg" length="48241619" type="application/octet-stream" sparkle:edSignature="V5y+CxJBI9GiyiDbhDZ9Jb+ustN54pMziOo3nYJd3gFt6/ibEbCO6DrxBeE38A0TmjBDuPrz3Wb5DHsX+UxzAA=="/>
+            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.80.dmg" length="48242913" type="application/octet-stream" sparkle:edSignature="Ph/5mgMp8MgBYNcZAyNOkhTbxcbqEaxh0XJGTP9NuYJCQie85ZxJYQrc6lg+a7lA3VBsNBQTNlzvfpCZOGOcAg=="/>
         </item>
     </channel>
 </rss>
