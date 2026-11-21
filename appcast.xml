@@ -3,16 +3,17 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.74</title>
-            <pubDate>Sat, 21 Nov 2026 01:00:23 +0000</pubDate>
-            <sparkle:version>174</sparkle:version>
-            <sparkle:shortVersionString>0.1.74</sparkle:shortVersionString>
+            <title>0.1.75</title>
+            <pubDate>Sat, 21 Nov 2026 01:08:30 +0000</pubDate>
+            <sparkle:version>175</sparkle:version>
+            <sparkle:shortVersionString>0.1.75</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.74</h2><ul>
-<li>Support: Formula can work in RepeatMD Admin's own screens when it sets something up (off until turned on in Settings) (#144)</li>
+            <description><![CDATA[<h2>Formula 0.1.75</h2><ul>
+<li>Support: drafted replies follow the CX rules and are built around the fix, and Formula looks into the account by itself (#146)</li>
+<li>Ideas: checking a brief takes as long as the idea is big (27 seconds for a small one, was 2 to 9 minutes) (#143)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.74.dmg" length="48094431" type="application/octet-stream" sparkle:edSignature="tuzrN5Rs80GvaN0QgDf9RUty8dcKesBG6CVEnm9plJgekgRo+HqkJWzlyC27FrelxFTtcYb78Vfv8AQU+R+VAw=="/>
+            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.75.dmg" length="48137050" type="application/octet-stream" sparkle:edSignature="yTs9rjcgx+vVPla4xxJ7FBIGIY4C9BVbqHDZmpyVgWJbcLZ23k6iDzEVtMIvFRcb2JKW9I5cn3YzvM4WTBT8Dw=="/>
         </item>
     </channel>
 </rss>
