@@ -3,16 +3,19 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.84</title>
-            <pubDate>Sun, 22 Nov 2026 01:17:22 +0000</pubDate>
-            <sparkle:version>184</sparkle:version>
-            <sparkle:shortVersionString>0.1.84</sparkle:shortVersionString>
+            <title>0.1.85</title>
+            <pubDate>Sun, 22 Nov 2026 01:25:39 +0000</pubDate>
+            <sparkle:version>185</sparkle:version>
+            <sparkle:shortVersionString>0.1.85</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.84</h2><ul>
-<li>Support: Formula shows how similar conversations were answered before, learns from your edits to its drafts, and leaves a wrap-up note when you resolve (#156)</li>
+            <description><![CDATA[<h2>Formula 0.1.85</h2><ul>
+<li>Ideas: closing the laptop lid no longer stops an agent as "did nothing" (#160)</li>
+<li>Shipping: a gh or git command stuck on the network no longer stops Formula checking pull requests (#159)</li>
+<li>Shipping: a pull request that needs review no longer looks ready when GitHub fails to send the branch's rules (#158)</li>
+<li>Ideas: one idea that can't be read no longer wipes every idea, and the original file is kept (#157)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.84.dmg" length="48640901" type="application/octet-stream" sparkle:edSignature="qTFSnl92W8gEj6tWcVJKpOh4oRSHSCMCn78VfVj6LUSBDuEcnw847f0UQPH/W5+VGg5IwUNviK/KbzvdAQfdDA=="/>
+            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.85.dmg" length="48705656" type="application/octet-stream" sparkle:edSignature="Bo1FuiIZq5huhrgypvoYrtzx2+TPc2FwQ6UQGwzBMgeGj6utBV0em4LwIohu+Cci8DprsQqYRglkurOX3eBXAg=="/>
         </item>
     </channel>
 </rss>
