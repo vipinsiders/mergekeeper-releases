@@ -3,17 +3,16 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.83</title>
-            <pubDate>Sat, 21 Nov 2026 18:50:12 +0000</pubDate>
-            <sparkle:version>183</sparkle:version>
-            <sparkle:shortVersionString>0.1.83</sparkle:shortVersionString>
+            <title>0.1.84</title>
+            <pubDate>Sun, 22 Nov 2026 01:17:22 +0000</pubDate>
+            <sparkle:version>184</sparkle:version>
+            <sparkle:shortVersionString>0.1.84</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.83</h2><ul>
-<li>Ideas: the next free agent goes to the person who is waiting, the router learns from failed first attempts, and each idea shows what its agents did (#155)</li>
-<li>Ideas: an idea waits its turn for a free agent instead of failing, and every agent at work is shown in one place (#154)</li>
+            <description><![CDATA[<h2>Formula 0.1.84</h2><ul>
+<li>Support: Formula shows how similar conversations were answered before, learns from your edits to its drafts, and leaves a wrap-up note when you resolve (#156)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.83.dmg" length="48476809" type="application/octet-stream" sparkle:edSignature="5m9ZzZdJLe0FHUikYGdxn9lCJ1AFUdf7Uuv7M9iN8e8JQjkhcEEk8VNzDgJ1I7REkeKVupUPEO6jKYLKQNSZDA=="/>
+            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.84.dmg" length="48640901" type="application/octet-stream" sparkle:edSignature="qTFSnl92W8gEj6tWcVJKpOh4oRSHSCMCn78VfVj6LUSBDuEcnw847f0UQPH/W5+VGg5IwUNviK/KbzvdAQfdDA=="/>
         </item>
     </channel>
 </rss>
