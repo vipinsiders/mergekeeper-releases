@@ -3,19 +3,21 @@
     <channel>
         <title>Formula</title>
         <item>
-            <title>0.1.85</title>
-            <pubDate>Sun, 22 Nov 2026 01:25:39 +0000</pubDate>
-            <sparkle:version>185</sparkle:version>
-            <sparkle:shortVersionString>0.1.85</sparkle:shortVersionString>
+            <title>0.1.86</title>
+            <pubDate>Sun, 22 Nov 2026 01:33:33 +0000</pubDate>
+            <sparkle:version>186</sparkle:version>
+            <sparkle:shortVersionString>0.1.86</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Formula 0.1.85</h2><ul>
-<li>Ideas: closing the laptop lid no longer stops an agent as "did nothing" (#160)</li>
-<li>Shipping: a gh or git command stuck on the network no longer stops Formula checking pull requests (#159)</li>
-<li>Shipping: a pull request that needs review no longer looks ready when GitHub fails to send the branch's rules (#158)</li>
-<li>Ideas: one idea that can't be read no longer wipes every idea, and the original file is kept (#157)</li>
+            <description><![CDATA[<h2>Formula 0.1.86</h2><ul>
+<li>Ideas: a minute offline no longer throws away a cloud build that is still running (#166)</li>
+<li>Support: articles worth writing, bug reports for engineering, clinics at risk, subjects on the rise, and who on the team settled it before (#165)</li>
+<li>Support: promises set their own reminders, quiet customers get a check-in, handovers leave a note, and several customers reporting one thing become one fix (#164)</li>
+<li>Support: the co-pilot waits out a usage limit, and uses a second Claude account, instead of giving up on conversations (#163)</li>
+<li>Support: a second reader checks every drafted reply, loose facts are flagged, unsure looks try again, and customers are answered in their own language (#161)</li>
+<li>Support: a conversation that became an idea is linked to the idea's pull requests, so the customer is told when it ships (#162)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.85.dmg" length="48705656" type="application/octet-stream" sparkle:edSignature="Bo1FuiIZq5huhrgypvoYrtzx2+TPc2FwQ6UQGwzBMgeGj6utBV0em4LwIohu+Cci8DprsQqYRglkurOX3eBXAg=="/>
+            <enclosure url="https://raw.githubusercontent.com/vipinsiders/mergekeeper-releases/mac/Formula-0.1.86.dmg" length="49114986" type="application/octet-stream" sparkle:edSignature="ky5ZD1dq1FmjtGc/+IkoYKwKCgsSb5xyRPPgaqcmFFb7w+AeVNzE7JK/zg75serYoROuOvm4jWOA1rWtgEbeDQ=="/>
         </item>
     </channel>
 </rss>
